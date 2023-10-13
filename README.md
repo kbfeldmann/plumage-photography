@@ -1,4 +1,4 @@
-### 🌎 Quantitative Photography &nbsp; &nbsp; &nbsp; 🔍 Achromatic Reflectance &nbsp; &nbsp; &nbsp; 📈 Principal Component Analyses
+### 🌎 Quantitative Photography &nbsp; &nbsp; &nbsp; 🔍 Achromatic Reflectance &nbsp; &nbsp; &nbsp; 📈 Principal Components
 
 Feather coloration and patterning are major signals influencing mate choice within and between species. However, most studies of the role of plumage in mate choice have focused on colorful species with obvious sexual dichromatism. To better understand how achromatic plumage might influence hybridization, we quantified plumage variation between and within two achromatic songbirds that occasionally hybridize, Black-capped (Poecile atricapillus) and Mountain (P. gambeli) chickadees. We collected feathers from 43 live birds and photographed 155 prepared museum specimens to measure overall plumage color and the size of the throat and cheek patches.
 
